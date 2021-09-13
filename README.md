@@ -10,4 +10,4 @@ Install
 
 Uninstall
 
-`pip uninstall preprocess_kgptalkie`
+`pip uninstall preprocessing_hoangct`
