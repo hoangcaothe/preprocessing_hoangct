@@ -5,7 +5,7 @@ with open('README.md', 'r') as file:
     
 setuptools.setup(
     name = 'preprocessing_hoangct',
-    version = '0.0.1',
+    version = '0.0.2',
     author  = 'Cao The Hoang',
     author_email = 'thehoang.cao@gmail.com',
     description = 'This is preprocessing package',
