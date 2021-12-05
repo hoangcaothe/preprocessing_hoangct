@@ -198,7 +198,7 @@ def _make_base(x):
         if lemma == '-PRON-' or lemma == 'be':
             lemma = token.text
         
-        x_list.append[lemma]
+        x_list.append(lemma)
     
     return ' '.join(x_list)
 
